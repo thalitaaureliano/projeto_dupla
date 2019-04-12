@@ -1,0 +1,33 @@
+body{
+    font-family: Montserrat;
+    justify-content:center;
+}
+.tabelas{
+    margin: auto 0;
+}
+
+.tabela1{
+    border:solid black .1em;
+    background: pink;
+    line: 3%;
+    padding: 1%;  
+}
+.tabela1 td{
+    border:solid black .1em;
+    background: pink;
+    width: 4.5em ;
+
+}
+.tabela2{
+    padding: 1%;    
+    border:solid black .1em;    
+    background:cyan;
+}
+.tabela2 td{
+    border:solid black .1em;
+    background:cyan;
+    width: 4.5em ;
+}
+.menu{
+    display:flex:
+}
