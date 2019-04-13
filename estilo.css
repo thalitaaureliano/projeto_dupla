@@ -4,8 +4,6 @@ body{
     margin: 0;
     padding: 0;
 }
-.tabelas{
-}
 
 .tabela1{
     border:solid black .1em;
@@ -52,7 +50,10 @@ form{
     border: 1px solid black;
     padding: 30px;
 }
-
+.imagem-projeto{
+    width: 10%;
+    padding: 5px;
+}
 
 
 
